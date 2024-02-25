@@ -1,5 +1,7 @@
 Machine Learning Project: Country Clustering Analysis
+
 Introduction
+
 This machine learning project aims to implement the K-means clustering algorithm on the provided country dataset. The Elbow method and the silhouette method were utilized to determine the optimum number of clusters. Both 3 and 4 clusters were explored to compare the model, resulting in similar outcomes.
 
 Problem Statement
